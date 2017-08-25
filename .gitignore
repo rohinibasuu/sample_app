@@ -11,6 +11,9 @@
 /db/*.sqlite3
 /db/*.sqlite3-journal
 
+# Ignore Spring files.
+/spring/*.pid
+
 # Ignore all logfiles and tempfiles.
 /log/*
 /tmp/*
